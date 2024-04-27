@@ -2630,14 +2630,21 @@ input, select, textarea {
 
 			ul.icons.labeled li .icon:before {
 				vertical-align: middle;
-				font-size: 2.25rem;
+				font-size: 2.0rem;
 				margin-right: 0.5em;
 			}
 
 			ul.icons.labeled li .icon .label {
-				display: inline-block;
+				display: flex;
 				vertical-align: middle;
 				color: #999999;
+				font-size: ;
+				font-weight: 300;
+				margin-bottom: ;
+				margin-top: 1em;
+				opacity: 1;
+				font-style: bold;
+				font-variant: small-caps;
 			}
 
 	@media screen and (max-width: 736px) and (orientation: portrait) {
@@ -3825,10 +3832,10 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			font-size: 3.0em;
+			font-size: 3.5em;
 			font-weight: 300;
 			margin-bottom: 0.5em;
-			opacity:0.9;
+			opacity:0.7;
 			font-style: italic;
 			font-variant: small-caps;
 		}
