@@ -3825,9 +3825,12 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			font-size: 3.25em;
-			font-weight: bold;
+			font-size: 3.0em;
+			font-weight: 300;
 			margin-bottom: 0.5em;
+			opacity:0.9;
+			font-style: italic;
+			font-variant: small-caps;
 		}
 
 		#header p {
