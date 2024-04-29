@@ -2662,7 +2662,7 @@ input, select, textarea {
 
 		ul.icons.labeled li {
 			margin: 1em 0;
-			padding: 0 2em 0 0;
+			padding: 0 5em 0 0;
 		}
 
 			ul.icons.labeled li .icon:before {
@@ -2672,13 +2672,14 @@ input, select, textarea {
 			}
 
 			ul.icons.labeled li .icon .label {
-				display: flex;
+				display: inline;
 				vertical-align: middle;
+				horizontal_align: middle;
 				color: #999999;
 				font-size: ;
-				font-weight: 300;
+				font-weight: 900;
 				margin-bottom: ;
-				margin-top: 1em;
+				margin-top: 0em;
 				opacity: 1;
 				font-style: bold;
 				font-variant: small-caps;
@@ -2759,7 +2760,7 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin: 0 0 2.5em 0;
+		margin: 0 0 1em 0;
 		text-align: center;
 	}
 
@@ -2768,7 +2769,7 @@ input, select, textarea {
 			border-bottom: solid 2px #e6e6e6;
 			display: block;
 			width: 4em;
-			margin: 2em auto 0 auto;
+			margin: 0 auto 0 auto;
 		}
 
 		@media screen and (max-width: 736px) {

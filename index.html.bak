@@ -29,9 +29,9 @@
            <div class="inner"><fade><img src="images/Picture1.png" alt="" height="250"></fade></div>
     </header>
     <!-- One -->
-    <section id="one" class="wrapper style3 special">
+    <section id="one" class="wrapper style2 special">
       <header class="major">
-        <h3>We offer...</h3>
+        <h2>We offer...</h2>
       </header>
       <ul class="icons labeled">
         <li><span class="icon solid fa-microchip"><span class="label">Advanced
