@@ -14,10 +14,10 @@
     <header id="header">
       <div class="content"> <br>
         <h1><a href="#">PANDECTA Inc.</a></h1>
-                <h3><i>The Power of Prevention</i></h3>
-            <h3><i>Proteome Analysis for Monitoring Health and Disease</i> </h3>
+        <h3><i>The Power of Prevention</i></h3>
+        <h3><i>Proteome Analysis for Monitoring Health and Disease</i> </h3>
         <ul class="actions">
-          <li><a href="PANDECTA INC - BROCHURE.pdf" class="button primary icon solid fa-download">Download
+          <li><a href="PANDECTA%20INC%20-%20BROCHURE.pdf" class="button primary icon solid fa-download">Download
               Brochure</a></li>
           <li><a href="mailto:pandecta.inc@gmail.com" class="button icon solid fa-chevron-down scrolly">Learn
               More</a></li>
@@ -25,12 +25,11 @@
       </div>
       <div class="inner"><fade><img src="images/Picture1.png" alt="" height="250"></fade></div>
     </header>
-    
     <!-- Two -->
     <section id="two" class="wrapper">
       <div class="inner alt">
         <section class="spotlight">
-          <div class="image"><img src="images/Picture1.png" alt=""style="filter: hue-rotate(40deg);"></div>
+          <div class="image"><img src="images/Picture1.png" alt="" style="filter: hue-rotate(190deg); box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.5); opacity: ; background-color: rgba(0, 0, 0, 0.1);"></div>
           <div class="content">
             <h3>Who Are We?</h3>
             <h5><b>Pandecta Inc. </b>lies at the forefront of Precision
@@ -38,18 +37,16 @@
               provide comprehensive genome-wide proteome screening to understand
               individuals’ health profiles. It isn’t just a leap in technology;
               it's a radical leap in our ability to assess and influence human
-              health at a most fundamental level.<b> <br>
-                <br>
-                Our vision</b> is a world where proteomic profiles guide
-              personalized health interventions<br>
-              <br>
-              <b>Our mission</b> is to make proteomics globally accessible for
+              health at a most fundamental level.</h5>
+            <h5><b>Our vision</b> is a world where proteomic profiles guide
+              personalized health interventions</h5>
+            <h5><b>Our mission</b> is to make proteomics globally accessible for
               precision medicine to improve health for all<br>
             </h5>
           </div>
         </section>
         <section class="spotlight">
-          <div class="image"><img src="images/Picture1.png" alt=""style="filter: invert(30%);"></div>
+          <div class="image"><img src="images/Picture1.png" alt="" style="filter: invert(30%);"></div>
           <div class="content">
             <h3>The Power of Mass Spectrometry</h3>
             <h5>Mass spectrometry is used across various industries including
@@ -57,8 +54,7 @@
               forensics, and clinical diagnostics, for the analysis of analytes
               ranging from small molecules and peptides to large proteins and
               complex metabolites.</h5>
-              
-              <h5>The MS technology market is set to expand from $4.4 to $7.8
+            <h5>The MS technology market is set to expand from $4.4 to $7.8
               billion USD by 2030.</h5>
           </div>
         </section>
@@ -69,84 +65,90 @@
             <h5>Despite advances, we still face significant challenges in
               predicting and preventing diseases. Existing methods are often
               reactive and detect illnesses too late. Proactive health
-              management requires a comprehensive assessment. <b>Pandecta
-                Inc.</b> offers personal comprehensive proteomic analytics
-              of blood samples and unprecedented insight into individual’s
-              health profiles by simultaneously analyzing one patient’s many
-              thousands of proteins. This facilitates precise, personalized
-              health monitoring, and provides opportunities for timely
-              preventative and therapeutic strategies tailored to each person’s
-              unique biological makeup. </h5>
-            
+              management requires a comprehensive assessment. <b>Pandecta Inc.</b>
+              offers personal comprehensive proteomic analytics of blood samples
+              and unprecedented insight into individual’s health profiles by
+              simultaneously analyzing one patient’s many thousands of proteins.
+              This facilitates precise, personalized health monitoring, and
+              provides opportunities for timely preventative and therapeutic
+              strategies tailored to each person’s unique biological makeup. </h5>
           </div>
         </section>
         <section class="spotlight">
           <div class="image"><img src="images/Picture1.png" style="filter: contrast(70%);"></div>
           <div class="content">
             <h3>Why Proteome?</h3>
-            <h5>Unlike genomics, which focuses on individual genetics, proteomics delves into the body’s protein expression, offering insights into thousands of proteins (proteome). By analyzing these proteins, we gain a deeper understanding of individuals’ health risks, enabling personalized lifestyle strategies.  Proteins serve as essential functional units in the body, from building and repairing tissues to fighting infections and carrying oxygen in our blood. Proteome assessment integrates information from genetic, environmental and lifestyle influences including various illnesses and drugs, providing a complete, in-time snapshot of individuals’ health.  Proteome can be used to understand the individual’s factors influencing wellness and disease, but also to facilitate precision medicine to improve early disease detection, stratification, and monitoring of patients, before, during, and after, therapeutic interventions.
-            <br><br>
-              </h5>
-                
-              <h5>IMAGINE having better indicators of the presence of disease before it manifests itself.
-            <br><br></h5>
-                
-                <h5>CONSIDER the ability to predict a likelihood of the disease before it can be detected.
-                  <br><br></h5>
-            
-            <h5>ENVISION the ability to monitor the efficacy of a treatment in real-time at the molecular level. 
-            <br><br></h5>
-              
-              <h5>PLAN more thorough, investigative individual wellness programs never before available on this scale that enable earlier detection, treatment, and prevention. 
+            <h5>Unlike genomics, which focuses on individual genetics,
+              proteomics delves into the body’s protein expression, offering
+              insights into thousands of proteins (proteome). By analyzing these
+              proteins, we gain a deeper understanding of individuals’ health
+              risks, enabling personalized lifestyle strategies. Proteins serve
+              as essential functional units in the body, from building and
+              repairing tissues to fighting infections and carrying oxygen in
+              our blood. Proteome assessment integrates information from
+              genetic, environmental and lifestyle influences including various
+              illnesses and drugs, providing a complete, in-time snapshot of
+              individuals’ health. Proteome can be used to understand the
+              individual’s factors influencing wellness and disease, but also to
+              facilitate precision medicine to improve early disease detection,
+              stratification, and monitoring of patients, before, during, and
+              after, therapeutic interventions. <br>
+              <br>
             </h5>
+            <h5>IMAGINE having better indicators of the presence of disease
+              before it manifests itself. </h5>
+            <h5>CONSIDER the ability to predict a likelihood of the disease
+              before it can be detected. </h5>
+            <h5>ENVISION the ability to monitor the efficacy of a treatment in
+              real-time at the molecular level. </h5>
+            <h5>PLAN more thorough, investigative individual wellness programs
+              never before available on this scale that enable earlier
+              detection, treatment, and prevention. </h5>
           </div>
         </section>
-        
         <section class="spotlight">
           <div class="image"><img src="images/Picture1.png" alt=""></div>
           <div class="content">
             <h3>Why us?</h3>
-            <h5><b>Pandecta Inc.</b> offers several advantages:
-            <br><br></h5>
-              
-              <h5>1.	Comprehensive health assessment: A single screen identifies thousands of proteins providing insights into multiple diseases and overall well-being.
-                <br><br></h5>2.	Efficiency: Analyzing multiple proteins in one sample streamlines diagnostic, prognostic, and predictive assessments.
-            <br><br><h5>3.	Improved precision: Multiple markers are much more precise as indicators of health or disease then a single marker.
-            </h5>
-            
+            <h5><b>Pandecta Inc.</b> offers several advantages: </h5>
+            <h5>1. Comprehensive health assessment: A single screen identifies
+              thousands of proteins providing insights into multiple diseases
+              and overall well-being. </h5>
+            2. Efficiency: Analyzing multiple proteins in one sample streamlines
+            diagnostic, prognostic, and predictive assessments. <br>
+            <br>
+            <h5>3. Improved precision: Multiple markers are much more precise as
+              indicators of health or disease then a single marker. </h5>
           </div>
         </section>
-               
         <section class="special">
           <header class="major">
-        <h2>Services and Infrastructure</h2>
-      </header>
-      <ul class="icons labeled">
-        <li><span class="icon solid fa-microchip"><span class="label">Advanced
-              Instrumentation</span></span></li>
-        <li><span class="icon solid fa-user"><span class="label">Expertise</span></span></li>
-        <li><span class="icon solid fa-network-wired"><span class="label">Computational
-              Capabilities</span></span></li>
-        <li><span class="icon solid fa-puzzle-piece"><span class="label">Innovation</span></span></li>
-        <li><span class="icon solid fa-file-medical"><span class="label">Health
-              Analytics</span></span></li>
-      </ul>
+            <h2>Services and Infrastructure</h2>
+          </header>
+          <ul class="icons labeled">
+            <li><span class="icon solid fa-microchip"><span class="label">Advanced
+                  Instrumentation</span></span></li>
+            <li><span class="icon solid fa-user"><span class="label">Expertise</span></span></li>
+            <li><span class="icon solid fa-network-wired"><span class="label">Computational
+                  Capabilities</span></span></li>
+            <li><span class="icon solid fa-puzzle-piece"><span class="label">Innovation</span></span></li>
+            <li><span class="icon solid fa-file-medical"><span class="label">Health
+                  Analytics</span></span></li>
+          </ul>
         </section>
       </div>
-      
     </section>
-    
-    
-    
     <!-- Three -->
     <section id="three" class="wrapper style2 special">
       <header class="major">
         <h2><i>Pandecta Inc.</i></h2>
-        <p>Aiming to stand as a beacon of innovation in Precision Medicine, harnessing the power of proteomics to transform healthcare through personalized, proactive health management.<br>
-          </p>
+        <p>Aiming to stand as a beacon of innovation in Precision Medicine,
+          harnessing the power of proteomics to transform healthcare through
+          personalized, proactive health management.<br>
+        </p>
       </header>
       <ul class="actions special">
-        <li><a href="PANDECTA INC - BROCHURE.pdf" class="button primary icon solid fa-download">Download</a></li>
+        <li><a href="PANDECTA%20INC%20-%20BROCHURE.pdf" class="button primary icon solid fa-download">Download</a></li>
         <li><a href="mailto:pandecta.inc@gmail.com" class="button">Learn More</a></li>
       </ul>
     </section>
