@@ -3807,12 +3807,14 @@ input, select, textarea {
 
 			h2 {
 				font-size: 1.5em;
-				line-height: 2.5em;
+				line-height: 1.5em;
 				letter-spacing: -0.025em;
+				text-align: left;
 			}
 
 			h3 {
 				font-size: 1.2em;
+				
 			}
 
 			h4 {
@@ -3894,7 +3896,8 @@ input, select, textarea {
 				}
 
 					#banner .content header h2 {
-						font-size: 1.5em;
+						font-size: 1.4em;
+						text-align: left;
 					}
 
 					#banner .content .image {
