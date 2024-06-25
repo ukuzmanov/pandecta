@@ -4,14 +4,13 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Landed by HTML5 UP</title>
+    <title>Pandecta Inc. - Landed</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload landing">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <header id="header">
         <h1 id="logo"><a href="index.html"><i></i></a></h1>
         <nav id="nav">
@@ -46,12 +45,13 @@
               <br>
               Master Your Health. Extend Your Horizons. </h3>
           </header>
-          <span class="image"><fade><img src="images/picture2.png" alt=""></fade></span>
+          <span class="image"><fade><img src="images/Picture2.png" alt=""></fade></span>
         </div>
         <a href="#one" class="goto-next scrolly">Next</a> </section>
       <!-- One -->
-      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
-            src="images/picture1.png" alt=""></span>
+      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
+
+            src="images/Picture1.png" alt=""></span>
         <div class="content">
           <div class="container">
             <div class="row">
@@ -75,8 +75,9 @@
         </div>
         <a href="#two" class="goto-next scrolly">Next</a> </section>
       <!-- Two -->
-      <section id="two" class="spotlight style2 right"> <span class="image fit main"><img
-            src="images/picture2.png" alt=""></span>
+      <section id="two" class="spotlight style2 right"> <span class="image fit main"><img
+
+            src="images/Picture2.png" alt=""></span>
         <div class="content">
           <header>
             <h2>What Do We Offer?</h2>
@@ -98,8 +99,9 @@
         </div>
         <a href="#three" class="goto-next scrolly">Next</a> </section>
       <!-- Three -->
-      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
-            src="images/picture1.png" alt=""></span>
+      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
+
+            src="images/Picture1.png" alt=""></span>
         <div class="content">
           <header>
             <h2><span style="font-family: Agency FB;">Why Proteome?</span></h2>
@@ -186,9 +188,11 @@
           </header>
           <form method="post" action="#" class="cta">
             <div class="row gtr-uniform gtr-50">
-              <div class="col-8 col-12-xsmall"><input name="email" id="email" placeholder="Your Email Address"
+              <div class="col-8 col-12-xsmall"><input name="email" id="email" placeholder="Your Email Address"
+
                   type="email"></div>
-              <div class="col-4 col-12-xsmall"><input value="Get Started" class="fit primary"
+              <div class="col-4 col-12-xsmall"><input value="Get Started" class="fit primary"
+
                   type="submit"></div>
             </div>
           </form>
