@@ -1,5 +1,9 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
 
 /*
 	Landed by HTML5 UP
@@ -128,7 +132,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: Agency FB, "Roboto", Helvetica, sans-serif;
+		font-family: Oswald, Agency FB, "Roboto", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -189,7 +193,7 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.35em;
-		line-height: 1.5em;
+		line-height: 1.0em;
 	}
 
 	h4 {
@@ -3524,7 +3528,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
-			opacity: 0.5;
+			opacity: 0.8;
 		}
 
 		#banner .content {
@@ -3817,12 +3821,12 @@ input, select, textarea {
 				font-size: 1.5em;
 				line-height: 1.5em;
 				letter-spacing: -0.025em;
-				text-align: left;
+				text-align: ;
 			}
 
 			h3 {
 				font-size: 1.2em;
-				text-align: center;
+				text-align: ;
 				
 			}
 
