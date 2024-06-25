@@ -140,7 +140,7 @@
               state, which can be used to modify lifestyle choices and prompt
               further consultations with healthcare professionals.</h5>
           </header>
-          <br>
+          <br><br>
           <form method="post" action="#" class="cta">
             <div class="row gtr-uniform gtr-50">
               <div class="col-8 col-12-xsmall"><input name="email" id="email" placeholder="Your Email Address"
