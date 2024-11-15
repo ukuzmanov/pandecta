@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>PROCESS - Pandecta Inc.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="is-preload landing">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <header id="header">
+        <h1 id="logo"><a href="index.html"><i></i></a></h1>
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="ABOUT.html">About</a></li>
+            <li><a href="TEAM.html">Team</a></li>
+            <li><a href="PROCESS.html">Process</a></li>
+            <li><a href="SERVICES.html">Services</a></li>
+            <li><a href="mailto:info@pandecta.ca" class="button primary">Contact
+                Us</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!-- Banner -->
+      <!-- One -->
+      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
+
+            src="images/Picture2.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <div class="container">
+            <div class="row">
+              <div class="col-2 col-12-medium">
+                <header>
+                  <h3>What Do We Offer?</h3>
+                </header>
+              </div>
+              <div class="col-10 col-12-medium">
+                <p><b>Pandecta Inc.</b> offers proactive health monitoring and
+                  management system through its personalized <b>Deep Protein
+                    Scan</b> intended to support individuals and healthcare
+                  practitioners in adopting a personalized strategy for health
+                  and wellness. By analyzing thousands of proteins in your
+                  blood, <b>Pandecta</b> provides an unprecedented, detailed
+                  view of your unique health profile. This comprehensive insight
+                  enables precise and individualized monitoring, facilitating
+                  risk assessment for both current and future conditions.</p>
+                <p> Through regular tracking of protein profiles, <b>Pandecta’s
+                    Deep Protein Scan</b> may help identify emerging issues
+                  before symptoms appear, facilitating timely interventions that
+                  may include lifestyle modifications, therapeutics, or medical
+                  procedures. This proactive approach allows for a more
+                  targeted, data-driven approach to managing health.</p>
+                <p> <b>Pandecta’s</b> expertise in monitoring protein changes
+                  over time ensures that healthcare professionals have access to
+                  reliable information to not only disease progression but also
+                  the effectiveness of treatment, providing opportunities for
+                  healthcare professionals to develop preventative and treatment
+                  response monitoring strategies.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="#two" class="goto-next scrolly">Next</a> </section>
+      <!-- Two -->
+      <section id="two" class="spotlight style2 right"> <span class="image fit main"><img
+
+            src="images/Picture2.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <header>
+            <h3>How It Works</h3>
+          </header>
+          <p></p>
+          <ul>
+            <li>Blood Sample Collection: Our process begins with a simple blood
+              draw performed at a certified clinical laboratory.</li>
+            <br>
+            <li>Pre-processing and Mass Spectrometry: The sample is then
+              processed to enable identification of low abundance plasma
+              proteins.</li>
+            <br>
+            <li>Data Analysis: A highly customized data organization and
+              analysis methods to achieve an optimal and comprehensive
+              assessment.</li>
+            <br>
+            <li>Detailed Health Insights: AI – assisted comprehensive report is
+              generated detailing various health aspects and recommendations.</li>
+          </ul>
+          <p></p>
+        </div>
+        <a href="#three" class="goto-next scrolly">Next</a> </section>
+      <!-- Three -->
+      <section id="three" class="spotlight style4 left"> <span class="image fit main bottom"><img
+
+            src="images/Picture1.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <header>
+            <h3>Innovative Approach</h3>
+          </header>
+          
+          <h5> Pandecta analytics stands out due to its ability to detect and
+            analyze thousands of proteins from a single sample and combining
+            this with AI-assisted human health-related approach providing a
+            holistic view of one’s health. This approach offers several
+            advantages: </h5>
+          
+          <ul>        
+            <h5><li><i>Comprehensive Health Assessment:</i> A single screen
+            identifies thousands of proteins, providing insights into hundreds
+            of diseases and overall well-being conditions.<br><br>
+            </li>
+            <li><i>Efficiency:</i> Analyzing multiple proteins in one sample
+            streamlines diagnostic, prognostic, and predictive assessments.<br><br>
+            </li>
+            <li><i>Improved Precision:</i> Multiple markers are much more precise
+            indicators of health or disease than a single marker.<br><br>
+            </li>
+            <li><i>An opportunity to regularly monitor</i> health and wellness
+            indicators.<br><br>
+            </li>
+          </h5>
+          </ul>
+          
+        </div>
+        <a href="#footer" class="goto-next scrolly">Next</a> </section>
+      <!-- Four -->
+     
+      <!-- Footer -->
+      <footer id="footer">
+        <ul class="icons">
+          <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+          <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>© <b>Pandecta Inc.</b> All rights reserved.</li>
+          <li>Design: UK</li>
+        </ul>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

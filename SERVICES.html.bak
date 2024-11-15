@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<!--
-	Landed by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>ABOUT - Pandecta Inc.</title>
+    <title>SERVICES - Pandecta Inc.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload landing">
-    <div id="page-wrapper"> <!-- Header -->
+    <div id="page-wrapper">
+      <!-- Header -->
       <header id="header">
         <h1 id="logo"><a href="index.html"><i></i></a></h1>
         <nav id="nav">
@@ -33,25 +33,12 @@
         <div class="content" style="text-align: justify;">
           <div class="container">
             <div class="row">
-              <div class="col-2 col-12-medium">
-                <header>
-                  <h2>ABOUT</h2>
-                </header>
-              </div>
+              
               <div class="col-10 col-12-medium">
-                <p><b>Pandecta Inc.</b> was founded with a single focus - to
-                  enable individuals to proactively monitor, address, and
-                  improve their well-being.</p>
-                <p> Our analytical process can indicate the risk of acquiring of
-                  hundreds of conditions, including many cancers, several
-                  neurological diseases, cardiovascular conditions, dementia,
-                  mental health disorders, and others. Moreover, it can also
-                  provide information about the general state of your body,
-                  including inflammation, infection, aging markers, reproductive
-                  health and others. </p>
-                <p> With Pandecta, you gain the knowledge needed to make
-                  informed decisions about your health, paving the way for a
-                  healthier, longer life. </p>
+                <p>Many diseases start years before they manifest clinically. Type 2 diabetes can be present for 5 – 10 years on average before being diagnosed due to the slow progression and subtle early symptoms. Heart disease can take decades to develop due to the slow build up of atherosclerotic plaques in the arteries.  It is often not diagnosed until chest pain, heart attack, or stroke occur.  Changes in the brain associated with Alzheimer disease may begin 10 to 20 years before any signs of cognitive decline appear. Depending on the cancer type, it may take over 10 years for the malignant tumors to manifest.  Colorectal cancer can develop over 10 to 15 years from initial benign polyps to symptomatic stage.</p>
+                
+                <p> These timelines underscore the importance of proactive health monitoring and early intervention. By utilizing proteomic analysis, we may detect early markers of disease, allowing for timely interventions as well as provide risk assessment for other ailments that, with proper strategy, can be managed allowing individuals to live a longer, healthier life. </p>
+                
               </div>
             </div>
           </div>
@@ -63,19 +50,12 @@
             src="images/Picture2.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <header>
-            <h2>Our Mission</h2>
+            <h2>SERVICES</h2>
           </header>
-          <p>To transform health monitoring by offering precise, timely insights
-            that enable informed decision-making and promote overall well-being
-            for all. </p>
-          <header>
-            <h2>Our Vision</h2>
-          </header>
-          <p>A world where proactive health monitoring provides foundation for
-            informed, personalized healthcare, helping people achieve optimal
-            well-being.</p>
+          <p>Pandecta Inc. informs hundreds of conditions grouped into several clusters:</p>
+         
         </div>
-        <a href="#three" class="goto-next scrolly">Next</a> </section>
+        <a href="#footer" class="goto-next scrolly">Next</a> </section>
       <!-- Three -->
       <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
 

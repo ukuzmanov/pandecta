@@ -10,8 +10,7 @@
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload landing">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <header id="header">
         <h1 id="logo"><a href="index.html"><i></i></a></h1>
         <nav id="nav">
@@ -36,8 +35,7 @@
             <div class="row"> <b>
                 <p> Proteomic analysis is a highly complicated process that
                   requires:</p>
-                <p>
-                  • Highly sophisticated machinery<br>
+                <p> • Highly sophisticated machinery<br>
                   • Highly specialized expertise<br>
                   • Sophisticated analysis methods to make accurate and
                   informative risk assessments</p>
@@ -53,78 +51,79 @@
 
             src="images/Picture2.png" alt=""></span>
         <div class="content" style="text-align: justify;">
-          <header>
-            <h2>Our Team</h2>
-          </header>
+          <h3>OUR TEAM</h3>
+          <br>
           <p><b>Edyta Marcon</b> MSc, PhD, MHSc<br>
-            Co-Founder and CEO
-          </p>
+            Co-Founder and CEO </p>
           <p> <b>Uros Kuzmanov</b> MSc, PhD<br>
             Co-Founder and COO </p>
           <p> <b>Hongbo Guo</b><br>
             Co-Founder and CFO </p>
-          <p>
-            James Oneschuk MBA<br>
-Vice-President Sales and Business Development
-Director
-
-          </p>
-          <p>
-            Gilbert Sharpe LLB, LLM<br>
-Regulatory Expert
-
-
-          </p>
+          <p> <b>James Oneschuk</b> MBA<br>
+            Vice-President Sales and Business Development Director </p>
+          <p> <b>Gilbert Sharpe</b> LLB, LLM<br>
+            Director and Regulatory Expert </p>
         </div>
         <a href="#three" class="goto-next scrolly">Next</a> </section>
       <!-- Three -->
-      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
+      <section id="three" class="spotlight style3 top"> <span class="image fit main bottom"><img
 
             src="images/Picture1.png" alt=""></span>
         <div class="content" style="text-align: justify;">
-          <header>
-            <h2>Our Goals</h2>
-          </header>
-          <p><b>• To empower individuals to take control over their health<br>
-              • To avoid/delay or address disease early<br>
-              • To monitor and manage treatments<br>
-              • To provide health related insights<br>
-              • To practice proactive versus reactive health monitoring</b> </p>
-        </div>
-        <a href="#four" class="goto-next scrolly">Next</a> </section>
-      <!-- Four -->
-      <section id="four" class="spotlight style1 bottom"> <span class="image fit main"><img
-
-            src="images/Picture2.png" alt=""></span>
-        <div class="content" style="text-align: justify;">
           <div class="container">
             <div class="row">
-              <div class="col-2 col-12-medium">
-                <header>
-                  <h2>Our Story</h2>
-                </header>
-              </div>
-              <div class="col-10 col-12-medium">
-                <p>At Pandecta, we ask: What can we do to help people address
-                  their health proactively rather than reactively? How can we
-                  help people live better, even if not necessarily longer,
-                  lives? Our commitment is clear: to empower individuals to make
-                  informed health decisions that enable them to live long and
-                  healthy lives. While many ailments have a genetic component,
-                  environmental factors such as diet, lifestyle, air pollution,
-                  exposure to radiation, stress, and other factors, play a
-                  significant role in our health. Our goal is to help people
-                  take control of their health proactively rather than
-                  reactively, making decisions that improve their well-being by
-                  avoiding, limiting, or minimizing the manifestation of
-                  ailments for as long as possible.</p>
-                <p> Join us in the journey to better health. We are not just
-                  waiting for people to get sick. We are making it possible for
-                  individuals to take control of their health, making proactive
-                  decisions that lead to a better quality of life. Together,
-                  let’s create a world where informed, proactive health
-                  monitoring is the norm! </p>
-              </div>
+              <p> <b><i>A MESSAGE FROM OUR CEO</i></b></p>
+              <p>
+                
+              <h5> In recent years, many of my friends in their early 50s and
+                60s, and even their children in their 20s, have been diagnosed
+                with cancer. In early 2023, my lifelong friend, whom I will call
+                Mike, was diagnosed with stage IV metastatic colon cancer at the
+                age of 52. The 5-year survival rate for colon cancer is 91% when
+                detected at stage 1, and 72% when detected at stages II and III.
+                However, for stage IV metastatic colon cancer, it drops
+                drastically to 14% (7, 8, 9). <br>
+                <br>
+                In Canada, screening guidelines recommend colonoscopies starting
+                at age 50, while in the US they start at age 45 (recently
+                lowered from 50). Mike should have had a colonoscopy at age 50,
+                but due to limited access to regular screening during COVID-19,
+                and thinking he was in good health, he didn't. By the time
+                symptoms appeared and he consulted a physician, it was almost
+                too late. He had a huge tumor at the entrance to the rectum,
+                more than 20 spots on his liver, and tumors in his lungs. He was
+                seen at one of the best hospitals in Canada and provided with
+                chemotherapy. However, given the metastatic condition of his
+                cancer, he was shuttled from doctor to doctor as it was unclear
+                which cancer to treat first. Rectum or liver? Chemotherapy or
+                surgery? In early 2024, he was given two years to live and told
+                nothing more could be done for him. <br>
+                <br>
+                Fortunately, he was referred to another excellent hospital in
+                Canada where doctors were more willing to make decisions. Mike
+                underwent aggressive chemotherapy to decrease his tumor mass,
+                surgery to remove the rectum tumor and part of his liver, and
+                was provided a liver pump to deliver treatment straight to his
+                remaining liver and continues on a chemotherapy regimen for his
+                colorectal cancer. <br>
+                <br>
+                Can you imagine the physical and mental toll on Mike’s body and
+                mind? <br>
+                <br>
+                If anybody can beat the 14% odds, it is Mike. Mike was always in
+                excellent physical shape and while he was never on any specific
+                diets, he always ate healthy. Even now, with his body ravaged by
+                a disease and weaken by surgery and continued chemotherapy, he
+                continues to exercise every day while at the same time,
+                addressing his metabolic health. He is committed to beating the
+                odds, and I am confident that he can. <br>
+                <br>
+                Could Pandecta have provide Mike with earlier signs of
+                colorectal cancer? The outcome would have been totally
+                different!<br>
+                <br>
+                At Pandecta, we are determined to help people take control of
+                their health!</h5></p>
             </div>
           </div>
         </div>
@@ -140,7 +139,7 @@ Regulatory Expert
           <li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
         </ul>
         <ul class="copyright">
-          <li>© Pandecta Inc.</li>
+          <li>© <b>Pandecta Inc.</b> All rights reserved.</li>
           <li>Design: UK</li>
         </ul>
       </footer>

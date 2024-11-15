@@ -212,6 +212,8 @@ input, select, textarea {
 	h5 {
 		font-size: 0.9em;
 		line-height: 1.5em;
+		font-weight: 300;
+		
 	}
 
 	h6 {
@@ -2225,6 +2227,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin-top: -0.6em;
 		line-height: 1.5em;
+		
 	}
 
 	header.major {
@@ -3176,7 +3179,7 @@ input, select, textarea {
 			height: 101%;
 			padding: 6em 3em;
 			top: 0;
-			width: 28em;
+			width: 32em;
 		}
 
 		.spotlight.left .content {
