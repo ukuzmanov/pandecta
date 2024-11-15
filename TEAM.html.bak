@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<!--
+	Landed by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>TEAM - Pandecta Inc.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="is-preload landing">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <header id="header">
+        <h1 id="logo"><a href="index.html"><i></i></a></h1>
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="ABOUT.html">About</a></li>
+            <li><a href="TEAM.html">Team</a></li>
+            <li><a href="PROCESS.html">Process</a></li>
+            <li><a href="SERVICES.html">Services</a></li>
+            <li><a href="mailto:info@pandecta.ca" class="button primary">Contact
+                Us</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!-- Banner -->
+      <!-- One -->
+      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
+
+            src="images/Picture2.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <div class="container">
+            <div class="row"> <b>
+                <p> Proteomic analysis is a highly complicated process that
+                  requires:</p>
+                <p>
+                  • Highly sophisticated machinery<br>
+                  • Highly specialized expertise<br>
+                  • Sophisticated analysis methods to make accurate and
+                  informative risk assessments</p>
+                <p> At Pandecta Inc. we are experts in Proteomic Analysis and
+                  Computational Analysis within both academic and clinical
+                  research. </p>
+              </b> </div>
+          </div>
+        </div>
+        <a href="#two" class="goto-next scrolly">Next</a> </section>
+      <!-- Two -->
+      <section id="two" class="spotlight style2 right"> <span class="image fit main"><img
+
+            src="images/Picture2.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <header>
+            <h2>Our Team</h2>
+          </header>
+          <p><b>Edyta Marcon</b> MSc, PhD, MHSc<br>
+            Co-Founder and CEO
+          </p>
+          <p> <b>Uros Kuzmanov</b> MSc, PhD<br>
+            Co-Founder and COO </p>
+          <p> <b>Hongbo Guo</b><br>
+            Co-Founder and CFO </p>
+          <p>
+            James Oneschuk MBA<br>
+Vice-President Sales and Business Development
+Director
+
+          </p>
+          <p>
+            Gilbert Sharpe LLB, LLM<br>
+Regulatory Expert
+
+
+          </p>
+        </div>
+        <a href="#three" class="goto-next scrolly">Next</a> </section>
+      <!-- Three -->
+      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
+
+            src="images/Picture1.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <header>
+            <h2>Our Goals</h2>
+          </header>
+          <p><b>• To empower individuals to take control over their health<br>
+              • To avoid/delay or address disease early<br>
+              • To monitor and manage treatments<br>
+              • To provide health related insights<br>
+              • To practice proactive versus reactive health monitoring</b> </p>
+        </div>
+        <a href="#four" class="goto-next scrolly">Next</a> </section>
+      <!-- Four -->
+      <section id="four" class="spotlight style1 bottom"> <span class="image fit main"><img
+
+            src="images/Picture2.png" alt=""></span>
+        <div class="content" style="text-align: justify;">
+          <div class="container">
+            <div class="row">
+              <div class="col-2 col-12-medium">
+                <header>
+                  <h2>Our Story</h2>
+                </header>
+              </div>
+              <div class="col-10 col-12-medium">
+                <p>At Pandecta, we ask: What can we do to help people address
+                  their health proactively rather than reactively? How can we
+                  help people live better, even if not necessarily longer,
+                  lives? Our commitment is clear: to empower individuals to make
+                  informed health decisions that enable them to live long and
+                  healthy lives. While many ailments have a genetic component,
+                  environmental factors such as diet, lifestyle, air pollution,
+                  exposure to radiation, stress, and other factors, play a
+                  significant role in our health. Our goal is to help people
+                  take control of their health proactively rather than
+                  reactively, making decisions that improve their well-being by
+                  avoiding, limiting, or minimizing the manifestation of
+                  ailments for as long as possible.</p>
+                <p> Join us in the journey to better health. We are not just
+                  waiting for people to get sick. We are making it possible for
+                  individuals to take control of their health, making proactive
+                  decisions that lead to a better quality of life. Together,
+                  let’s create a world where informed, proactive health
+                  monitoring is the norm! </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="#footer" class="goto-next scrolly">Next</a> </section>
+      <!-- Footer -->
+      <footer id="footer">
+        <ul class="icons">
+          <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+          <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+          <li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>© Pandecta Inc.</li>
+          <li>Design: UK</li>
+        </ul>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

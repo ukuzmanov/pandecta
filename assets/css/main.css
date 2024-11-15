@@ -3003,13 +3003,16 @@ input, select, textarea {
 			background-size: contain;
 			content: '';
 			display: block;
-			height: 1.5em;
+			height: 2em;
 			left: 50%;
-			margin: -0.75em 0 0 -1em;
+			margin: -1em 0 0 -1em;
 			position: absolute;
 			top: 50%;
-			width: 2em;
+			width: 4.5em;
 			z-index: 1;
+			border-radius: 50%;
+			background-color: rgb(255, 0, 0, 0.3);
+			outline-style: solid;
 		}
 
 /* Spotlight */
