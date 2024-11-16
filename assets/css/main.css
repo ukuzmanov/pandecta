@@ -3120,6 +3120,7 @@ input, select, textarea {
 			left: 0;
 			top: 0;
 			width: 100%;
+			
 		}
 
 		.spotlight .image.main {
@@ -3536,7 +3537,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #152D44;
-		background-image: url("../../images/banner_bg.png");
+		background-image: url("../../images/banner_bg1.png");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
