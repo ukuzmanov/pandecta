@@ -12,15 +12,17 @@
   <body class="is-preload landing">
     <div id="page-wrapper"> <!-- Header -->
       <header id="header">
-        <h1 id="logo"><a href="index.html"><i></i></a></h1>
+        <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 50px;">TEAM</h2>
         <nav id="nav">
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="ABOUT.html">About</a></li>
-            <li><a href="TEAM.html">Team</a></li>
+            <li><a href="TEAM.html"  class="button primary">Team</a></li>
             <li><a href="PROCESS.html">Process</a></li>
             <li><a href="SERVICES.html">Services</a></li>
-            <li><a href="mailto:info@pandecta.ca" class="button primary">Contact
+            <li><a href="PRIVACY.html">Privacy Statement</a></li>
+            <li><a href="TERMS.html">Terms of Service</a></li>
+            <li><a href="mailto:info@pandecta.ca" style="background: rgb(21, 48, 68, 0.5); border-style: solid; border-color: #FF0000; border-width: 0.1px;" class="button primary">Contact
                 Us</a></li>
           </ul>
         </nav>
@@ -73,8 +75,7 @@
           <div class="container">
             <div class="row">
               <p> <b><i>A MESSAGE FROM OUR CEO</i></b></p>
-              <p>
-                
+              <p> </p>
               <h5> In recent years, many of my friends in their early 50s and
                 60s, and even their children in their 20s, have been diagnosed
                 with cancer. In early 2023, my lifelong friend, whom I will call
@@ -123,7 +124,8 @@
                 different!<br>
                 <br>
                 At Pandecta, we are determined to help people take control of
-                their health!</h5></p>
+                their health!</h5>
+              <p></p>
             </div>
           </div>
         </div>
@@ -136,7 +138,9 @@
           <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
           <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
           <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-          <li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span
+
+                class="label">Email</span></a></li>
         </ul>
         <ul class="copyright">
           <li>© <b>Pandecta Inc.</b> All rights reserved.</li>

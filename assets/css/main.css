@@ -140,7 +140,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: Oswald, Agency FB, "Roboto", Helvetica, sans-serif;
+		font-family: Agency FB, Oswald, "Roboto", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -3014,8 +3014,10 @@ input, select, textarea {
 			width: 4.5em;
 			z-index: 1;
 			border-radius: 50%;
-			background-color: rgb(255, 0, 0, 0.3);
+			background-color: rgb(255, 0, 0, 0);
+			outline-color: rgb(255, 0, 0, 0);
 			outline-style: solid;
+			opacity: 0.2;
 		}
 
 /* Spotlight */
@@ -3452,6 +3454,8 @@ input, select, textarea {
 
 		#header nav {
 			position: fixed;
+			width: 100%;
+			line-height: 2.2em;
 			left: 0em;
 			top: 0;
 			font-size: ;
@@ -3459,12 +3463,22 @@ input, select, textarea {
 		}
 
 			#header nav ul {
-				margin: 0;
-			}
+				
+				background: rgb(12, 27, 55, 0.2);
+				border-radius: 5px;
+				outline-style: solid;
+				outline-color: rgb(255, 255,255, 0.1);
+				outline-width: 0.1px;
+				margin-top: 3px;
+				margin-left: 3px;
+				margin-right: 3px;
+				height: ;
 
+			}
 				#header nav ul li {
 					display: inline-block;
-					margin-left: 1em;
+					margin-left: 0.5em;
+					margin-right: 0.5em;
 				}
 
 					#header nav ul li a, #header nav ul li span {
@@ -3474,14 +3488,26 @@ input, select, textarea {
 						height: inherit;
 						line-height: inherit;
 						outline: 0;
+						
 					}
 
-						#header nav ul li a.button, #header nav ul li span.button {
+						#header nav ul li a.button {
 							height: 1.5em;
 							line-height: 1.5em;
-							padding: 0 1.25em;
-							background: #FF0000;
+							padding: 0 0.75em;
+							background: rgb(255, 0, 0, 0.2);
+							
 						}
+						
+						#header nav ul li span.button {
+							height: 1.5em;
+							line-height: 1.5em;
+							padding: 0 0.75em;
+							background: rgb(255, 0, 0, 0.2);
+							outline-color: rgb(255, 0, 0, 0.2);
+							
+						}
+
 
 						#header nav ul li a:not(.button):before, #header nav ul li span:not(.button):before {
 							margin-right: 0.5em;
