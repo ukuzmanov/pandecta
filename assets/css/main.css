@@ -3030,6 +3030,7 @@ input, select, textarea {
 		height: 100vh;
 		overflow: hidden;
 		position: relative;
+		
 	}
 
 		.spotlight:nth-last-of-type(1) {
@@ -3144,6 +3145,7 @@ input, select, textarea {
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
+			background-image: url("../../images/bg.png");
 		}
 
 		.spotlight .goto-next {
@@ -3259,6 +3261,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background: #e44c65;
+			background-image: url("../../images/bg.png");
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
