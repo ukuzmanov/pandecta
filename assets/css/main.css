@@ -3494,7 +3494,7 @@ input, select, textarea {
 					display: inline-block;
 					#margin-top: 0.1em;
 					margin-bottom: 0.2em;
-					margin-left: -0.8em;
+					margin-left: -0.6em;
 					margin-right: 0.5em;
 					max-width: 1.5em;
 					vertical-align: middle;
@@ -3567,7 +3567,7 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #152D44;
+		#background-color: #152D44;
 		background-image: url("../../images/banner_bg1.png");
 		background-position: center center;
 		background-size: cover;
