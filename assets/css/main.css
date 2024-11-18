@@ -3477,14 +3477,14 @@ input, select, textarea {
 
 			#header nav ul {
 				
-				background: rgb(12, 27, 55, 0.2);
-				border-radius: 5px;
+				background: rgb(12, 27, 50, 0.4);
+				border-radius: px;
 				outline-style: solid;
-				outline-color: rgb(255, 255,255, 0.1);
-				outline-width: 0.1px;
-				margin-top: 3px;
-				margin-left: 3px;
-				margin-right: 3px;
+				outline-color: rgb(255, 255,255, 0.05);
+				outline-width: 1px;
+				margin-top: 0px;
+				margin-left: 0px;
+				margin-right: 0px;
 				
 
 			}
@@ -3498,7 +3498,7 @@ input, select, textarea {
 					margin-right: 0.5em;
 					max-width: 1.5em;
 					vertical-align: middle;
-					opacity: 0.3;
+					opacity: 0.5;
 					
 					
 
