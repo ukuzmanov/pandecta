@@ -13,6 +13,7 @@
         <h1 id="logo"><a href="index.html"><i></i></a></h1>
         <nav id="nav">
           <ul>
+            <img src="images/Picture2.png" style="opacity: 0.5;">
             <li><a href="index.html" class="button primary">Home</a></li>
             <li><a href="ABOUT.html">About</a></li>
             <li><a href="TEAM.html">Team</a></li>
@@ -20,7 +21,8 @@
             <li><a href="SERVICES.html">Services</a></li>
             <li><a href="PRIVACY.html">Privacy Statement</a></li>
             <li><a href="TERMS.html">Terms of Service</a></li>
-            <li><a href="mailto:info@pandecta.ca">Contact Us</a></li>
+            <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope">Contact
+                Us</a></li>
           </ul>
         </nav>
       </header>

@@ -11,33 +11,34 @@
     <div id="page-wrapper"> <!-- Header -->
       <!-- Header -->
       <header id="header">
+        
         <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 10px;"></h2>
         <nav id="nav">
+          
           <ul>
+            <img src="images/Picture2.png" style="opacity: 0.5;">
             <li><a href="index.html">Home</a></li>
             <li><a href="ABOUT.html">About</a></li>
             <li><a href="TEAM.html">Team</a></li>
             <li><a href="PROCESS.html">Process</a></li>
             <li><a href="SERVICES.html">Services</a></li>
             <li><a href="PRIVACY.html">Privacy Statement</a></li>
-            <li><a href="TERMS.html"  class="button primary">Terms of Service</a></li>
+            <li><a href="TERMS.html" class="button primary">Terms of Service</a></li>
             <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope">Contact
                 Us</a></li>
           </ul>
         </nav>
       </header>
       <!-- Main -->
-      <div id="main" class="wrapper style1">
+      <div id="main" class="wrapper style1" style="background-image: url('images/bg.png');background-repeat: no-repeat;background-position: center;">
         <div class="container">
           <!-- Content -->
           <section id="content">
             <h2>TERMS OF SERVICE</h2>
-            <p>
-              The detailed Terms of Service Agreement can be found <a href="Pandecta Inc -  Terms of Service.pdf">here</a>
+            <p> The detailed Terms of Service Agreement can be found <a href="Pandecta%20Inc%20-%20%20Terms%20of%20Service.pdf">here</a>.
             </p>
-            
-            <p> If you have any questions or concerns about these Terms of Service
-              or our data practices, please <a href="mailto:info@pandecta.ca">contact
+            <p> If you have any questions or concerns about these Terms of
+              Service or our data practices, please <a href="mailto:info@pandecta.ca">contact
                 us</a>. </p>
           </section>
         </div>

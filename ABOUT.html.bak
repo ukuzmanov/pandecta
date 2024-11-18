@@ -15,6 +15,7 @@
         <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 50px;">ABOUT</h2>
         <nav id="nav">
           <ul>
+            <img src="images/Picture2.png">
             <li><a href="index.html">Home</a></li>
             <li><a href="ABOUT.html" class="button primary">About</a></li>
             <li><a href="TEAM.html">Team</a></li>
@@ -22,7 +23,8 @@
             <li><a href="SERVICES.html">Services</a></li>
             <li><a href="PRIVACY.html">Privacy Statement</a></li>
             <li><a href="TERMS.html">Terms of Service</a></li>
-            <li><a href="mailto:info@pandecta.ca">Contact Us</a></li>
+            <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope">Contact
+                Us</a></li>
           </ul>
         </nav>
       </header>

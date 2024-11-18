@@ -17,13 +17,12 @@
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="ABOUT.html">About</a></li>
-            <li><a href="TEAM.html"  class="button primary">Team</a></li>
+            <li><a href="TEAM.html" class="button primary">Team</a></li>
             <li><a href="PROCESS.html">Process</a></li>
             <li><a href="SERVICES.html">Services</a></li>
             <li><a href="PRIVACY.html">Privacy Statement</a></li>
             <li><a href="TERMS.html">Terms of Service</a></li>
-            <li><a href="mailto:info@pandecta.ca" style="background: rgb(21, 48, 68, 0.5); border-style: solid; border-color: #FF0000; border-width: 0.1px;" class="button primary">Contact
-                Us</a></li>
+            <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope">Contact Us</a></li>
           </ul>
         </nav>
       </header>
