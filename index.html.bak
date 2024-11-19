@@ -13,7 +13,7 @@
         <h1 id="logo"><a href="index.html"><i></i></a></h1>
         <nav id="nav">
           <ul>
-            <img src="images/Picture2.png" style="opacity: 0.5;">
+            <fade><a href="#"><img src="images/Picture2.png"></a></fade>
             <li><a href="index.html" class="button primary">Home</a></li>
             <li><a href="ABOUT.html">About</a></li>
             <li><a href="TEAM.html">Team</a></li>
