@@ -15,7 +15,7 @@
         <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 50px;">ABOUT</h2>
         <nav id="nav">
           <ul>
-           <fade><img src="images/Picture2.png"></fade>
+            <fade><img src="images/Picture2.png"></fade>
             <li><a href="index.html">Home</a></li>
             <li><a href="ABOUT.html" class="button primary">About</a></li>
             <li><a href="TEAM.html">Team</a></li>
@@ -32,7 +32,7 @@
       <!-- One -->
       <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
 
-            src="images/Picture2.png" alt=""></span>
+            src="images/Picture1.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <div class="container">
             <div class="row">
@@ -68,7 +68,7 @@
           <header>
             <h2>Our Mission</h2>
           </header>
-          <p>To transform health monitoring by offering precise, timely insights
+          <p>To transform health monitoring by offering timely insights
             that enable informed decision-making and promote overall well-being
             for all. </p>
           <header>
