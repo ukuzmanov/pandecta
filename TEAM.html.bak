@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+    <link rel="icon" type="image/png" href="images/icon.png">
   </head>
   <body class="is-preload landing">
     <div id="page-wrapper"> <!-- Header -->
@@ -42,9 +43,10 @@
                   • Highly specialized expertise<br>
                   • Sophisticated analysis methods to make accurate and
                   informative risk assessments</p>
-                <p> At Pandecta Inc. we are experts in Proteomic Analysis and
-                  Computational Analysis within both academic and clinical
-                  research. </p>
+                <p> Pandecta Inc.'s founders have extensive expertise in
+                  Proteomic and Computational Analysis within both academic and
+                  clinical research, business development and growth, and health
+                  policy and regultions. </p>
               </b> </div>
           </div>
         </div>

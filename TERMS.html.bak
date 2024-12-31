@@ -6,17 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+    <link rel="icon" type="image/png" href="images/icon.png">
   </head>
   <body class="is-preload landing">
     <div id="page-wrapper"> <!-- Header -->
       <!-- Header -->
       <header id="header">
-        
         <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 10px;"></h2>
         <nav id="nav">
-          
           <ul>
-            <img src="images/Picture2.png">
+            <fade><img src="images/Picture2.png"></fade>
             <li><a href="index.html">Home</a></li>
             <li><a href="ABOUT.html">About</a></li>
             <li><a href="TEAM.html">Team</a></li>

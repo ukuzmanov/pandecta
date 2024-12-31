@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+    <link rel="icon" type="image/png" href="images/icon.png">
   </head>
   <body class="is-preload landing">
     <div id="page-wrapper"> <!-- Header -->
@@ -96,13 +97,13 @@
                   before the event. </p>
                 <p style="text-align: justify;">On the other hand, a proactive
                   health monitoring and management approach involves regularly
-                  monitoring health markers to catch potential issues early on,
-                  allowing for intervention through lifestyle changes,
-                  medications, or even surgery if necessary. In a proactive
-                  approach, we aim to regularly assess health and wellness
-                  indicators in order to avoid, monitor, or manage diseases
-                  early before symptoms emerge. This strategy can help
-                  individuals live a longer and healthier life. </p>
+                  monitoring health markers to assess risks for developing
+                  various ailments, allowing for intervention through lifestyle
+                  changes, medications, or even surgery if necessary. In a
+                  proactive approach, we aim to regularly assess health and
+                  wellness indicators in order to avoid, monitor, or manage
+                  diseases early on. This strategy can help individuals live a
+                  longer and healthier life.</p>
               </div>
             </div>
           </div>
