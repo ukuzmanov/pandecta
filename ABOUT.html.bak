@@ -11,7 +11,8 @@
     <link rel="icon" type="image/png" href="images/icon.png">
   </head>
   <body class="is-preload landing">
-    <div id="page-wrapper"> <!-- Header -->
+    <div id="page-wrapper">
+      <!-- Header -->
       <header id="header">
         <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 50px;">ABOUT</h2>
         <nav id="nav">
@@ -44,15 +45,14 @@
               </div>
               <div class="col-10 col-12-medium">
                 <p><b>Pandecta Inc.</b> was founded with a single focus - to
-                  enable individuals to proactively monitor, address, and
-                  improve their well-being.</p>
-                <p> Our analytical process can indicate the risk of acquiring of
-                  hundreds of conditions, including many cancers, several
-                  neurological diseases, cardiovascular conditions, dementia,
-                  mental health disorders, and others. Moreover, it can also
-                  provide information about the general state of your body,
-                  including inflammation, infection, aging markers, reproductive
-                  health and others. </p>
+                  enable you to understand your health like never before.</p>
+                <p> Our analytical process can risk assessment for hundreds of
+                  conditions, including many cancers, several neurological
+                  diseases, cardiovascular conditions, dementia, mental health
+                  disorders, and others. Moreover, it can also provide
+                  information about the general state of your body, including
+                  inflammation, infection, aging markers, reproductive health,
+                  overall fitness and muscle strength, and others.. </p>
                 <p> With Pandecta, you gain the knowledge needed to make
                   informed decisions about your health, paving the way for a
                   healthier, longer life. </p>
@@ -69,15 +69,17 @@
           <header>
             <h2>Our Mission</h2>
           </header>
-          <p>To transform health monitoring by offering timely insights that
-            enable informed decision-making and promote overall well-being for
-            all. </p>
+          <p>To empower individuals to proactively manage their health through
+            personalized, cutting-edge analytics that provide actionable
+            insights into their current biological state, enabling informed
+            decisions for a healthier and longer life. </p>
           <header>
             <h2>Our Vision</h2>
           </header>
-          <p>A world where proactive health monitoring provides foundation for
-            informed, personalized healthcare, helping people achieve optimal
-            well-being.</p>
+          <p>A world where health monitoring is proactive, personalized, and
+            empowering, allowing everyone to understand their unique health
+            profile and make data-driven choices for optimal well-being and
+            longevity.</p>
         </div>
         <a href="#three" class="goto-next scrolly">Next</a> </section>
       <!-- Three -->
@@ -86,13 +88,19 @@
             src="images/Picture1.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <header>
-            <h2>Our Goals</h2>
+            <h2>Key Elements</h2>
           </header>
-          <p><b>• To empower individuals to take control over their health<br>
-              • To avoid/delay or address disease early<br>
-              • To monitor and manage treatments<br>
-              • To provide health related insights<br>
-              • To practice proactive versus reactive health monitoring</b> </p>
+          <p><b>Empowerment: Helping individuals take control of their health
+              rather than reacting to illnesses<br><br>
+              Personalization: Tailoring health insights to each person’s
+              unique biological makeup using advanced proteomics<br><br>
+              Innovation: Utilizing the latest technology, such as mass
+              spectrometry and AI, to deliver precise and actionable health data<br><br>
+              Proactivity: Shifting the paradigm from reactive disease
+              management to proactive health monitoring<br><br>
+              Holistic Approach: Providing a comprehensive view of health,
+              encompassing risk assessment, treatment efficacy monitoring, and
+              wellness planning</b> </p>
         </div>
         <a href="#four" class="goto-next scrolly">Next</a> </section>
       <!-- Four -->
@@ -159,5 +167,6 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
+    
   </body>
 </html>

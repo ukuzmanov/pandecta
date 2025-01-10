@@ -33,7 +33,8 @@
           <header>
             <h1><span style="color: #cccccc;"><b>PANDECTA INC.</b></span></h1>
             <h3> <i>The Ultimate Health Analytics:<br>
-                <br>Because You Deserve It</i> </h3>
+                <br>
+                Because You Deserve More</i> </h3>
           </header>
           <span class="image"><fade><img src="images/Picture2.png" alt=""></fade></span>
         </div>
@@ -113,17 +114,13 @@
 
             src="images/Picture1.png" alt=""></span>
         <div class="content">
-          <p style="text-align: justify;"><b>IMAGINE </b>having better
-            indicators of the presence of disease before it manifests itself. <br>
+          <p style="text-align: justify;"><b>IMAGINE </b>having a detailed snapshot of your current health, revealing insights you never thought possible. <br>
             <br>
-            <b>CONSIDER</b> the ability to estimate a risk of a health condition
-            before it manifests.<br>
+            <b>CONSIDER</b> the power of identifying potential health trends before they become concerns.<br>
             <br>
-            <b>ENVISION</b> the ability to monitor the efficacy of a treatment
-            in real-time at the molecular level.<br>
+            <b>ENVISION</b> real-time monitoring of your body’s responses to treatments or lifestyle changes at the molecular level.<br>
             <br>
-            <b>PLAN</b> more thorough, investigative and preventative individual
-            wellness programs never before seen on this scale. </p>
+            <b>PLAN</b> a personalized, proactive health strategy tailored to your unique biological profile. </p>
         </div>
         <a href="#five" class="goto-next scrolly">Next</a> </section>
       <!-- Five -->
