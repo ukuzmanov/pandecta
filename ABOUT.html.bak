@@ -32,8 +32,7 @@
       </header>
       <!-- Banner -->
       <!-- One -->
-      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
-
+      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
             src="images/Picture1.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <div class="container">
@@ -44,7 +43,7 @@
                 </header>
               </div>
               <div class="col-10 col-12-medium">
-                <p><b>Pandecta Inc.</b> was founded with a single focus - to
+                <p><b>Pandecta&nbsp;</b> was founded with a single focus - to
                   enable you to understand your health like never before.</p>
                 <p> Our analytical process can risk assessment for hundreds of
                   conditions, including many cancers, several neurological
@@ -62,8 +61,7 @@
         </div>
         <a href="#two" class="goto-next scrolly">Next</a> </section>
       <!-- Two -->
-      <section id="two" class="spotlight style2 right"> <span class="image fit main"><img
-
+      <section id="two" class="spotlight style2 right"> <span class="image fit main"><img
             src="images/Picture2.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <header>
@@ -83,29 +81,31 @@
         </div>
         <a href="#three" class="goto-next scrolly">Next</a> </section>
       <!-- Three -->
-      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
-
+      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
             src="images/Picture1.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <header>
             <h2>Key Elements</h2>
           </header>
-          <p><b>Empowerment: Helping individuals take control of their health
-              rather than reacting to illnesses<br><br>
-              Personalization: Tailoring health insights to each person’s
-              unique biological makeup using advanced proteomics<br><br>
-              Innovation: Utilizing the latest technology, such as mass
-              spectrometry and AI, to deliver precise and actionable health data<br><br>
-              Proactivity: Shifting the paradigm from reactive disease
-              management to proactive health monitoring<br><br>
-              Holistic Approach: Providing a comprehensive view of health,
-              encompassing risk assessment, treatment efficacy monitoring, and
-              wellness planning</b> </p>
+          <p><b>Empowerment: </b>Helping individuals take control of their
+            health rather than reacting to illnesses<b><br>
+              <br>
+              Personalization: </b>Tailoring health insights to each person’s
+            unique biological makeup using advanced proteomics<b><br>
+              <br>
+              Innovation: </b>Utilizing the latest technology, such as mass
+            spectrometry and AI, to deliver precise and actionable health data<b><br>
+              <br>
+              Proactivity: </b>Shifting the paradigm from reactive disease
+            management to proactive health monitoring<b><br>
+              <br>
+              Holistic Approach: </b>Providing a comprehensive view of health,
+            encompassing risk assessment, treatment efficacy monitoring, and
+            wellness planning </p>
         </div>
         <a href="#four" class="goto-next scrolly">Next</a> </section>
       <!-- Four -->
-      <section id="four" class="spotlight style1 bottom"> <span class="image fit main"><img
-
+      <section id="four" class="spotlight style1 bottom"> <span class="image fit main"><img
             src="images/Picture2.png" alt=""></span>
         <div class="content" style="text-align: justify;">
           <div class="container">
@@ -148,8 +148,7 @@
           <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
           <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
           <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span
-
+          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span
                 class="label">Email</span></a></li>
         </ul>
         <ul class="copyright">
@@ -167,6 +166,5 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>
