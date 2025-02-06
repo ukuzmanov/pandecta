@@ -2,15 +2,14 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>HOME - Pandecta Inc.</title>
+    <title>Pandecta</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
     <link rel="icon" type="image/png" href="images/icon.png">
   </head>
   <body class="is-preload landing">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <header id="header">
         <h1 id="logo"><a href="index.html"><i></i></a></h1>
         <nav id="nav">
@@ -42,7 +41,8 @@
         </div>
         <a href="#one" class="goto-next scrolly">Next</a> </section>
       <!-- One -->
-      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
+      <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
+
             src="images/Picture1.png" alt=""></span>
         <div class="content">
           <div class="container">
@@ -53,10 +53,10 @@
                 </header>
               </div>
               <div class="col-8 col-12-medium">
-                <p style="text-align: justify;"><b>Pandecta Inc.</b> is
-                  dedicated to empowering individuals to take proactive control
-                  of their health through advanced protein analysis. We believe
-                  in personalized health strategies tailored to each person’s
+                <p style="text-align: justify;"><b>Pandecta </b>is dedicated to
+                  empowering individuals to take proactive control of their
+                  health through advanced protein analysis. We believe in
+                  personalized health strategies tailored to each person’s
                   unique biological makeup, helping to avoid, defer, limit the
                   manifestation of various ailments, or monitor treatment
                   efficacies. We strive to make proactive health management
@@ -71,7 +71,8 @@
         </div>
         <a href="#two" class="goto-next scrolly">Next</a> </section>
       <!-- Two -->
-      <section id="two" class="spotlight style1 bottom"> <span class="image fit main"><img
+      <section id="two" class="spotlight style1 bottom"> <span class="image fit main"><img
+
             src="images/Picture2.png" alt=""></span>
         <div class="content">
           <div class="container">
@@ -110,7 +111,8 @@
         </div>
         <a href="#three" class="goto-next scrolly">Next</a> </section>
       <!-- Three -->
-      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
+      <section id="three" class="spotlight style3 left"> <span class="image fit main bottom"><img
+
             src="images/Picture1.png" alt=""></span>
         <div class="content">
           <p style="text-align: justify;"><b>IMAGINE </b>having a detailed
@@ -162,7 +164,8 @@
           <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
           <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
           <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span
+          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span
+
                 class="label">Email</span></a></li>
         </ul>
         <ul class="copyright">
