@@ -22,8 +22,10 @@
             <li><a href="SERVICES.html">Services</a></li>
             <li><a href="PRIVACY.html">Privacy Statement</a></li>
             <li><a href="TERMS.html">Terms of Service</a></li>
+            
             <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope">Contact
                 Us</a></li>
+            <li style="position: fixed !important; right: 0 !important;"><a href="PARTNERS.html"><h6 class="icon solid alt fa-file-pdf" >&nbsp; &nbsp;For Partners</h6></a></li>
           </ul>
         </nav>
       </header>

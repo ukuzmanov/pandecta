@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>For Partners - Pandecta Inc.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+    <link rel="icon" type="image/png" href="images/icon.png">
+    <style>
+      /* Updated styles for the password overlay to better match your site's colour scheme */
+      #loginOverlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); /* Dark, semi-transparent background */
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+      }
+      #loginOverlay div {
+        text-align: center;
+        color: #fff; /* White text */
+      }
+      #loginOverlay input {
+        padding: 0.5em;
+        font-size: 1em;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      #loginOverlay button {
+        padding: 0.25em 1em;
+        font-size: 1em;
+        margin-left: 0.5em;
+        cursor: pointer;
+        background-color: #337ab7; /* Blue button background */
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        font-family: Agency FB, Oswald, "Roboto", Helvetica, sans-serif;
+      }
+    </style>
+  </head>
+  <body class="is-preload landing"> <!-- Password Protection Overlay -->
+    <div id="loginOverlay">
+      <div>
+        <h2>Please enter the password</h2>
+        <input id="passwordInput" placeholder="Password" type="password"> <br>
+        <button id="loginButton">Submit </button> </div>
+    </div>
+    <div id="page-wrapper">
+      <!-- Header -->
+      <header id="header">
+        <h2 id="logo" style="float: right; margin-right: 50px; margin-top: 10px;"></h2>
+        <nav id="nav">
+          <ul>
+            <fade><img src="images/Picture2.png" alt="Logo"></fade>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="ABOUT.html">About</a></li>
+            <li><a href="TEAM.html">Team</a></li>
+            <li><a href="PROCESS.html">Process</a></li>
+            <li><a href="SERVICES.html">Services</a></li>
+            <li><a href="PRIVACY.html">Privacy Statement</a></li>
+            <li><a href="TERMS.html">Terms of Service</a></li>
+            <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope">Contact
+                Us</a></li>
+            <li style="position: fixed !important; right: 0 !important;"><a href="PARTNERS.html"
+
+                class="button primary">For Partners</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!-- Main -->
+      <div id="main" class="wrapper style1" style="background-image: url('images/bg.png'); background-repeat: no-repeat; background-position: center;">
+        <div class="container">
+          <!-- Content -->
+          <section id="content">
+            <h2>TERMS OF SERVICE</h2>
+            <p> The answers to frequently asked questions can be found <a href="Pandecta Inc - FAQ.pdf">here</a>.
+            </p>
+            <p> Training material slides can be found <a href="Pandecta Inc. - Training Material slides.pdf">here</a>. </p>
+          </section>
+        </div>
+      </div>
+      <!-- Footer -->
+      <footer id="footer">
+        <ul class="icons">
+          <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+          <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+          <li><a href="mailto:info@pandecta.ca" class="icon solid alt fa-envelope"><span
+
+                class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>© <b>Pandecta Inc.</b> All rights reserved.</li>
+          <li>Design: UK</li>
+        </ul>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+    <!-- Password Protection Script Using jQuery -->
+    <script>
+      $(document).ready(function() {
+        $("#loginButton").click(function() {
+          var enteredPassword = $("#passwordInput").val();
+          if (enteredPassword === "partner:") {
+            // Fade out the overlay on correct password
+            $("#loginOverlay").fadeOut("slow");
+          } else {
+            alert("Incorrect password!");
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
