@@ -9,8 +9,7 @@
     <link rel="icon" type="image/png" href="images/icon.png">
   </head>
   <body class="is-preload landing">
-    <div id="page-wrapper">
-      <!-- Header -->
+    <div id="page-wrapper"> <!-- Header -->
       <!-- Header -->
       <header id="header">
         <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 10px;"></h2>
@@ -35,11 +34,12 @@
           <!-- Content -->
           <section id="content">
             <h2>PRIVACY STATEMENT </h2>
-            <p> The detailed Privacy Statement and Consent Form can be found <a href="Pandecta - Privacy Policy.pdf">here</a>.
-            </p>
-            <p> If you have any questions or concerns about these Terms of
-              Service or our data practices, please <a href="mailto:info@pandecta.ca">contact
-                us</a>. </p>
+            <p> The detailed Privacy Statement and Consent Form can be found <a
+
+                href="Pandecta%20-%20Privacy%20Policy.pdf" download>here</a>. </p>
+            <p> If you have any questions or concerns about the Privacy
+              Statement and Consent Form, please <a href="mailto:info@pandecta.ca">contact
+                us</a> (info@pandecta.ca). </p>
           </section>
         </div>
       </div>
