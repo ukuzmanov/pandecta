@@ -40,7 +40,7 @@
                 <br>
                 Because You Deserve More</i> </h3>
           </header>
-          <span class="image"><"fade><img src="images/GIF.gif" alt=""></fade></span>
+          <span class="image" style="transform: scale(2); transform-origin: center;"><ffade><img src="images/GIF.gif" alt=""></fade></span>
         </div>
         <a href="#one" class="goto-next scrolly">Next</a> </section>
       <!-- One -->
