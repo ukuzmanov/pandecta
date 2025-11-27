@@ -41,10 +41,11 @@
             <h3> <i>The Ultimate Health Analytics:<br>
                 <br>
                 Because You Deserve More</i> </h3>
+            <br>
           </header>
-          <span class="image" style="transform: scale(2.5); transform-origin: center; opacity: 0.2;"><ffade><img
+          <span class="image" style="transform: scale(2.2); transform-origin: center; opacity: 1;"><fade><img
 
-                                                                                                   src="images/GIF.gif" alt=""></ffade></span> </div>
+                                                                                                   src="images/GIF.gif" alt=""></fade></span> </div>
             
        
         
