@@ -32,7 +32,9 @@
       </header>
       <!-- Banner -->
       <section id="banner">
+        
         <div class="content">
+          
           <header>
             <h1><span style="color: #cccccc;"><b>PANDECTA<br>
                 </b></span></h1>
@@ -40,8 +42,12 @@
                 <br>
                 Because You Deserve More</i> </h3>
           </header>
-          <span class="image" style="transform: scale(2); transform-origin: center;"><ffade><img src="images/GIF.gif" alt=""></fade></span>
-        </div>
+          <span class="image" style="transform: scale(2.5); transform-origin: center; opacity: 0.2;"><ffade><img
+
+                                                                                                   src="images/GIF.gif" alt=""></ffade></span> </div>
+            
+       
+        
         <a href="#one" class="goto-next scrolly">Next</a> </section>
       <!-- One -->
       <section id="one" class="spotlight style1 bottom"> <span class="image fit main"><img
